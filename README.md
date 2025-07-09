@@ -134,6 +134,6 @@ These two mini-projects demonstrate essential AI/ML skills:
 **Akanksh Nalam**  
 B.Tech – Artificial Intelligence and Machine Learning  
 SRKR Engineering College (2022–2026)  
-🔗 [GitHub](https://github.com/akankshnalam02) | [LinkedIn](https://www.linkedin.com/akankshnalam)
+🔗 [GitHub](https://github.com/akankshnalam02) | [LinkedIn](https://www.linkedin.com/in/akankshnalam)
 
 📌 Feel free to fork, explore, and contribute!
