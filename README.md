@@ -8,7 +8,7 @@ This repository includes two practical machine learning projects designed to dem
 
 ## 📁 Repository Structure
 
-AICTE_AIML_Intern/
+```AICTE_AIML_Intern/
 │
 ├── 1_Movie Recommender System/
 │ ├── Task_1_ Movie Recommender System.ipynb
@@ -28,6 +28,7 @@ AICTE_AIML_Intern/
 │ └── AMAZON_2006_to_2018_stocks.csv
 │
 └── README.md
+```
 
 ## 🎬 Task 1: Movie Recommender System
 
