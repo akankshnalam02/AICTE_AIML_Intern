@@ -11,25 +11,23 @@ This repository includes two practical machine learning projects designed to dem
 AICTE_AIML_Intern/
 │
 ├── 1_Movie Recommender System/
-│   ├── Task_1_ Movie Recommender System.ipynb
-│   ├── movie_recommender_app/
-│   │   ├── app.py
-│   │   └── movie_recommender.py
-│   └── movie_lens_data/ ❌ (Excluded in repo – see below)
-│       ├── genome_scores.csv
-│       ├── genome_tags.csv
-│       ├── link.csv
-│       ├── movie.csv
-│       ├── rating.csv
-│       └── tag.csv
+│ ├── Task_1_ Movie Recommender System.ipynb
+│ ├── movie_recommender_app/
+│ │ ├── app.py
+│ │ └── movie_recommender.py
+│ └── movie_lens_data/ ❌ (Excluded in GitHub repo – see dataset note below)
+│ ├── genome_scores.csv
+│ ├── genome_tags.csv
+│ ├── link.csv
+│ ├── movie.csv
+│ ├── rating.csv
+│ └── tag.csv
 │
 ├── 2_Stock Market Price Predictor/
-│   ├── Stocks_Prediction_using_LSTM.ipynb
-│   └── AMAZON_2006_to_2018_stocks.csv
+│ ├── Stocks_Prediction_using_LSTM.ipynb
+│ └── AMAZON_2006_to_2018_stocks.csv
 │
 └── README.md
-
----
 
 ## 🎬 Task 1: Movie Recommender System
 
