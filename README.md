@@ -62,8 +62,11 @@ Access app at: `http://localhost:8501`
 
 ### 📸 Output Example
 🎥 Content-Based Movie Recommender
+
 🔍 Search for a movie: Toy Story (1995)
+
 ✅ Did you mean: Toy Story (1995)?
+
 🎯 Top 5 Recommended Movies:
 
 1.Antz (1998)
