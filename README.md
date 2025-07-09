@@ -7,9 +7,28 @@ This repository includes two practical machine learning projects designed to dem
 ---
 
 ## 📁 Repository Structure
-
-<pre> ## 📁 Repository Structure AICTE_AIML_Intern/ │ ├── 1_Movie Recommender System/ │ ├── Task_1_ Movie Recommender System.ipynb │ ├── movie_recommender_app/ │ │ ├── app.py │ │ └── movie_recommender.py │ └── movie_lens_data/ ❌ (Excluded in GitHub repo – see dataset note below) │ ├── genome_scores.csv │ ├── genome_tags.csv │ ├── link.csv │ ├── movie.csv │ ├── rating.csv │ └── tag.csv │ ├── 2_Stock Market Price Predictor/ │ ├── Stocks_Prediction_using_LSTM.ipynb │ └── AMAZON_2006_to_2018_stocks.csv │ └── README.md </pre>
-
+```
+AICTE_AIML_Intern/
+│
+├── 1_Movie Recommender System/
+│ ├── Task_1_ Movie Recommender System.ipynb
+│ ├── movie_recommender_app/
+│ │ ├── app.py
+│ │ └── movie_recommender.py
+│ └── movie_lens_data/ ❌ (Excluded in GitHub repo – see dataset note below)
+│ ├── genome_scores.csv
+│ ├── genome_tags.csv
+│ ├── link.csv
+│ ├── movie.csv
+│ ├── rating.csv
+│ └── tag.csv
+│
+├── 2_Stock Market Price Predictor/
+│ ├── Stocks_Prediction_using_LSTM.ipynb
+│ └── AMAZON_2006_to_2018_stocks.csv
+│
+└── README.md
+```
 ## 🎬 Task 1: Movie Recommender System
 
 ### 📌 Objective
@@ -42,16 +61,20 @@ Access app at: `http://localhost:8501`
 - difflib for fuzzy matching in search
 
 ### 📸 Output Example
-
-🎥 **Content-Based Movie Recommender**  
-🔍 Search for a movie: `Inception`  
-✅ Did you mean: *Inception*?  
+🎥 Content-Based Movie Recommender
+🔍 Search for a movie: Toy Story (1995)
+✅ Did you mean: Toy Story (1995)?
 🎯 Top 5 Recommended Movies:
-1. Interstellar
-2. The Matrix
-3. The Prestige
-4. Memento
-5. The Dark Knight
+
+1.Antz (1998)
+
+2.Toy Story 2 (1999)
+
+3.Adventures of Rocky and Bullwinkle, The (2000)
+
+4.Emperor's New Groove, The (2000)
+
+5.Monsters, Inc. (2001)
 
 ---
 
