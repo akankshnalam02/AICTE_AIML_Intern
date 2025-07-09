@@ -1,5 +1,5 @@
 
-# 🎓 AICTE AIML Internship Projects (2025)
+# 🎓 AICTE AIML Internship Project (2025)
 
 Welcome to my submission for the **AICT Pvt. Ltd. - AI/ML Internship**!  
 This repository includes two practical machine learning projects designed to demonstrate core concepts in **recommendation systems** and **time series prediction**.
